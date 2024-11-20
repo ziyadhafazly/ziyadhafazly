@@ -9,13 +9,13 @@
 </div>
 
 <div align="center">
-  <a href="mailto:ziyadhafazly@gmail.com">
+  <a href="mailto:fasly2570@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://linkedin.com/in/ziyadhafazly">
+  <a href="https://www.linkedin.com/in/ziyadhafazly/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://medium.com/@ziyadhafazly">
+  <a href="https://medium.com/@fasly2570">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
 </div>
@@ -24,7 +24,8 @@
   <img src="https://komarev.com/ghpvc/?username=ziyadha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
   <img src="https://img.shields.io/badge/Focus-Web%20Development-blue" alt="Focus">
   <img src="https://img.shields.io/badge/Location-Sri%20Lanka-success" alt="Location">
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Tamil-brightgreen" alt="Languages">
+  <img src="https://img.shields.io/badge/Languages-English%2C%20Tamil%20%26%20Sinhala-brightgreen" alt="Languages">
+
 </div>
 
 ## 📊 Performance Dashboard
@@ -61,15 +62,7 @@ pie title Programming Languages
 <summary>Frontend Development</summary>
 <br/>
 <p align="left">
-████████████████████░░░░ 90%
-</p>
-</details>
-
-<details>
-<summary>Backend Development</summary>
-<br/>
-<p align="left">
-███████████████░░░░░░░░░ 75%
+████████████████████░░░░ 80%
 </p>
 </details>
 
@@ -77,7 +70,7 @@ pie title Programming Languages
 <summary>Database Management</summary>
 <br/>
 <p align="left">
-██████████████████░░░░░░ 80%
+██████████████████░░░░░░ 70%
 </p>
 </details>
 
@@ -93,7 +86,7 @@ pie title Programming Languages
 <summary>Cloud Services</summary>
 <br/>
 <p align="left">
-████████████░░░░░░░░░░░░ 60%
+████████████░░░░░░░░░░░░ 50%
 </p>
 </details>
 
@@ -117,23 +110,13 @@ gantt
     title 2024 Project Timeline
     dateFormat  YYYY-MM-DD
     section Frontend
-    Next.js Project   :2024-01-01, 90d
-    React Native App  :2024-03-01, 60d
-    section Backend
-    Java Spring Boot  :2024-02-01, 75d
-    AWS Integration   :2024-04-01, 45d
-```
+    React Native App  :2024-09-01, 60d
 
 ---
 
 ### 🎯 2024 Goals Progress
 
 <table>
-  <tr>
-    <td>Cloud Certification</td>
-    <td>
-      <img src="https://img.shields.io/badge/Progress-45%25-brightgreen?style=for-the-badge" />
-    </td>
   </tr>
   <tr>
     <td>Full Stack Projects</td>
@@ -159,17 +142,16 @@ gantt
 
 ### Languages & Frameworks
 
-Frontend     →  HTML5, CSS3, JavaScript, React.js, Next.js
-Backend      →  Java, Spring Boot, Node.js, Python
-Database     →  MongoDB, MySQL, PostgreSQL
-Tools        →  Git, Docker, AWS, Jenkins
+Frontend     →  HTML5, CSS3, JavaScript, React.js
+Backend      →  Java, Node.js, Python
+Database     →  MySQL
+Tools        →  Git
 
 
 
 
 ### Currently Exploring
 - 🔍 Microservices Architecture
-- 🌐 Cloud Native Development
 - 📊 System Design Patterns
 - 🎨 Progressive Web Apps
 
@@ -193,9 +175,6 @@ Tools        →  Git, Docker, AWS, Jenkins
   </a>
   <a href="http://www.youtube.com/@ziyadhafazly">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40"/>
-  </a>
-  <a href="https://www.hackerrank.com/ziyadhafazly">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/>
   </a>
 </div>
 
