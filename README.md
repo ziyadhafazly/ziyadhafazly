@@ -102,17 +102,6 @@ HTML/CSS     3 hrs 45 mins   ████░░░░░░░░░░░░░
 Python       1 hr 05 mins    ██░░░░░░░░░░░░░░░    5.50%
 ```
 
-## 🚀 Current Focus & Projects
-
-### Project Timeline
-```mermaid
-gantt
-    title 2024 Project Timeline
-    dateFormat  YYYY-MM-DD
-    section Frontend
-    React Native App  :2024-09-01, 60d
-
----
 
 ### 🎯 2024 Goals Progress
 
