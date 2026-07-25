@@ -28,21 +28,6 @@
 
 </div>
 
-## 📊 Performance Dashboard
-
-### 📊 Contribution Activity
-[![Ziyadha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ziyadha&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### 📈 Contribution Metrics
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ziyadha&theme=monokai" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ziyadha&theme=monokai" width="31%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ziyadha&theme=monokai" width="31%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ziyadha&theme=monokai" width="31%">
-</div>
 
 ## 🎯 Skills & Expertise
 
